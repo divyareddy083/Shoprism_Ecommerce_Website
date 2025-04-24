@@ -93,7 +93,7 @@ Find out how to build a complete e-commerce platform. Author Divya Reddy tackles
 1. Make sure you have created accounts at
 
    - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register "MongoDB Atlas")
-   - [Heroku](https://signup.heroku.com/login "Heroku")
+   - [Heroku](https://signup.heroku.com/login "Heroku"] [if you want to deploy the project] 
 
 2. Then follow ALL step by step
 
