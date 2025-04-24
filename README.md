@@ -23,49 +23,6 @@ Find out how to build a complete e-commerce platform. Author Divya Reddy tackles
    - Postman
    - Axios
 
-## Live Demo
-
-- [react-complete-e-commerce](https://react-complete-e-commerce.herokuapp.com/ "react-complete-e-commerce")
-
-### Home Page
-
-![Home Page](screenshots/home.png 'Home Page')
-
-### Search Page
-
-![Search Page](screenshots/search.png 'Search Page')
-
-### Product Page
-
-![Product Page](screenshots/product-screen.png 'Product Page')
-
-### Cart Page
-
-![Cart Page](screenshots/cart.png 'Cart Page')
-
-### Place Order Page
-
-![Place Order Page](screenshots/place-order.png 'Place Order Page')
-
-### Make Payment Page
-
-![Make Payment Page](screenshots/make-payment.png 'Make Payment Page')
-
-### My Order Page
-
-![My Order Page](screenshots/my-order-screen.png 'My Order Page')
-
-### Admin Users Page
-
-![Admin Users Page](screenshots/admin-users.png 'Admin Users Page')
-
-### Admin Products Page
-
-![Admin Products Page](screenshots/admin-products.png 'Admin Products Page')
-
-### Admin Orders Page
-
-![Admin Orders Page](screenshots/admin-orders.png 'Admin Orders Page')
 
 ## Instructions
 
