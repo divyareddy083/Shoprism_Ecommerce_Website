@@ -115,8 +115,7 @@ Find out how to build a complete e-commerce platform. Author Divya Reddy tackles
       > npm run data:import
       ```
 
-6. Rename .env-example to .env
-   and set these values
+6. Update .env by setting these values
    ```
     NODE_ENV = development
     PORT = <>
